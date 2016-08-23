@@ -1,0 +1,6 @@
+[submodule "Software/2016/OpenAFM_gui"]
+	path = Software/2016/OpenAFM_gui
+	url = https://github.com/OpenAFM/OpenAFM_gui.git
+[submodule "Software/2015/electron-interface"]
+	path = Software/2015/electron-interface
+	url = https://github.com/OpenAFM/electron-interface.git
