@@ -7,7 +7,7 @@
 [submodule "Firmware/2015/firmware"]
 	path = Firmware/2015/firmware
 	url = https://github.com/OpenAFM/firmware.git
-[submodule "Electronics/Templates"]
-	path = Electronics/Templates
+[submodule "Electronics"]
+	path = Electronics
 	url = https://github.com/ollie1400/openAFMCircuits.git
 
