@@ -11,3 +11,7 @@
 	path = Firmware/2016
 	url = https://github.com/memresener/firmware.git
 
+[submodule "Firmware/2016/firmware"]
+	path = Firmware/2016/firmware
+	url = https://github.com/memresener/firmware.git
+	branch = firmware_adc_dactest
