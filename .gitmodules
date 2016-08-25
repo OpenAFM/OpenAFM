@@ -4,6 +4,6 @@
 [submodule "Software/2015/electron-interface"]
 	path = Software/2015/electron-interface
 	url = https://github.com/OpenAFM/electron-interface.git
-[submodule "Firmware"]
-	path = Firmware
-	url = https://github.com/memresener/firmware.git
+[submodule "Firmware/2015/firmware"]
+	path = Firmware/2015/firmware
+	url = https://github.com/OpenAFM/firmware.git
