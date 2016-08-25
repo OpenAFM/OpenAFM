@@ -1,12 +1,13 @@
-[submodule "Software/2016/OpenAFM_gui"]
-	path = Software/2016/OpenAFM_gui
-	url = https://github.com/OpenAFM/OpenAFM_gui.git
 [submodule "Software/2015/electron-interface"]
 	path = Software/2015/electron-interface
 	url = https://github.com/OpenAFM/electron-interface.git
+[submodule "Software/2016/OpenAFM_gui"]
+	path = Software/2016/OpenAFM_gui
+	url = https://github.com/OpenAFM/OpenAFM_gui.git
 [submodule "Firmware/2015/firmware"]
 	path = Firmware/2015/firmware
 	url = https://github.com/OpenAFM/firmware.git
-[submodule "Firmware/2016"]
-	path = Firmware/2016
-	url = https://github.com/memresener/firmware.git
+[submodule "Electronics"]
+	path = Electronics/Templates
+	url = https://github.com/ollie1400/openAFMCircuits
+
