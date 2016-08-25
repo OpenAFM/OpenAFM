@@ -9,5 +9,5 @@
 	url = https://github.com/OpenAFM/firmware.git
 [submodule "Electronics"]
 	path = Electronics/Templates
-	url = https://github.com/ollie1400/openAFMCircuits
+	url = https://github.com/ollie1400/openAFMCircuits.git
 
