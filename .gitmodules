@@ -10,7 +10,6 @@
 [submodule "Firmware/2016"]
 	path = Firmware/2016
 	url = https://github.com/memresener/firmware.git
-
 [submodule "Firmware/2016/firmware"]
 	path = Firmware/2016/firmware
 	url = https://github.com/memresener/firmware.git
@@ -35,6 +34,6 @@
 	url = https://github.com/ollie1400/openAFMCircuits.git
 	branch = Piezo_board
 [submodule "Electronics/2016_Circuits"]
-	path = Electronics/2016/Piezo_board
+	path = Electronics/2016_Circuits
 	url = https://github.com/ollie1400/openAFMCircuits.git
 	branch = master
