@@ -14,26 +14,7 @@
 	path = Firmware/2016/firmware
 	url = https://github.com/memresener/firmware.git
 	branch = firmware_adc_dactest
-[submodule "Electronics/2016/Templates"]
-	path = Electronics/2016/Templates
-	url = https://github.com/ollie1400/openAFMCircuits.git
-[submodule "Electronics/2016/Voice_coil"]
-	path = Electronics/2016/Voice_coil
-	url = https://github.com/ollie1400/openAFMCircuits.git
-	branch = Voice_coil
-[submodule "Electronics/2016/Input_board"]
-	path = Electronics/2016/Input_board
-	url = https://github.com/ollie1400/openAFMCircuits.git
-	branch = Input_board
-[submodule "Electronics/2016/Main_board"]
-	path = Electronics/2016/Main_board
-	url = https://github.com/ollie1400/openAFMCircuits.git
-	branch = Main_board
-[submodule "Electronics/2016/Piezo_board"]
-	path = Electronics/2016/Piezo_board
-	url = https://github.com/ollie1400/openAFMCircuits.git
-	branch = Piezo_board
-[submodule "Electronics/2016_Circuits"]
-	path = Electronics/2016_Circuits
+[submodule "Electronics/2016"]
+	path = Electronics/2016
 	url = https://github.com/ollie1400/openAFMCircuits.git
 	branch = master
